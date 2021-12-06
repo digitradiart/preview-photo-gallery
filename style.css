@@ -1,0 +1,22 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    background-image: linear-gradient(to right,  rgb(31, 31, 71), rgb(80, 80, 129));
+    color: aliceblue;
+}
+
+#container {
+    min-height: 100vh;
+}
+
+.thumbnails img {
+    height: 60px;
+    border: 1px aliceblue solid;
+}
+
+.thumbnails img:hover {
+    border: 3px aliceblue solid;
+}
+.preview img{
+    margin-top: 10px;
+    width: 720px;
+}
